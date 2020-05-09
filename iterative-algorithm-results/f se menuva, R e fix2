@@ -1,0 +1,73 @@
+========== f se menuva, R = 30 ===========
+
+N = 150	L = 100	R = 30	r = 5	f = 10
+Error: 4.61
+Percent of found nodes: 94.62
+N = 150	L = 100	R = 30	r = 5	f = 20
+Error: 6.21
+Percent of found nodes: 99.28
+N = 150	L = 100	R = 30	r = 5	f = 30
+Error: 5.66
+Percent of found nodes: 99.3
+N = 150	L = 100	R = 30	r = 5	f = 40
+Error: 5.17
+Percent of found nodes: 99.7
+N = 150	L = 100	R = 30	r = 5	f = 50
+Error: 5.62
+Percent of found nodes: 99.91
+N = 150	L = 100	R = 30	r = 5	f = 60
+Error: 5.95
+Percent of found nodes: 100.0
+N = 150	L = 100	R = 30	r = 5	f = 70
+Error: 6.38
+Percent of found nodes: 100.0
+
+
+========== f se menuva, R = 40 ===========
+
+N = 150	L = 100	R = 40	r = 5	f = 10
+Error: 7.66
+Percent of found nodes: 99.26
+N = 150	L = 100	R = 40	r = 5	f = 20
+Error: 7.37
+Percent of found nodes: 99.83
+N = 150	L = 100	R = 40	r = 5	f = 30
+Error: 7.85
+Percent of found nodes: 99.94
+N = 150	L = 100	R = 40	r = 5	f = 40
+Error: 7.52
+Percent of found nodes: 99.93
+N = 150	L = 100	R = 40	r = 5	f = 50
+Error: 7.58
+Percent of found nodes: 99.91
+N = 150	L = 100	R = 40	r = 5	f = 60
+Error: 8.07
+Percent of found nodes: 99.89
+N = 150	L = 100	R = 40	r = 5	f = 70
+Error: 8.15
+Percent of found nodes: 99.85
+
+
+========== f se menuva, R = 50 ===========
+
+N = 150	L = 100	R = 50	r = 5	f = 10
+Error: 8.67
+Percent of found nodes: 99.85
+N = 150	L = 100	R = 50	r = 5	f = 20
+Error: 9.09
+Percent of found nodes: 100.0
+N = 150	L = 100	R = 50	r = 5	f = 30
+Error: 9.28
+Percent of found nodes: 100.0
+N = 150	L = 100	R = 50	r = 5	f = 40
+Error: 9.56
+Percent of found nodes: 100.0
+N = 150	L = 100	R = 50	r = 5	f = 50
+Error: 8.51
+Percent of found nodes: 100.0
+N = 150	L = 100	R = 50	r = 5	f = 60
+Error: 9.8
+Percent of found nodes: 100.0
+N = 150	L = 100	R = 50	r = 5	f = 70
+Error: 8.63
+Percent of found nodes: 100.0
